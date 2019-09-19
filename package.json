@@ -1,0 +1,31 @@
+{
+  "name": "symbol-master-renamer",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "sketch": ">=49.0"
+  },
+  "skpm": {
+    "name": "Symbol Master Renamer",
+    "manifest": "src/manifest.json",
+    "main": "rename-master-symbol.sketchplugin",
+    "assets": [
+      "assets/**/*"
+    ],
+    "sketch-assets-file": "sketch-assets/icons.sketch"
+  },
+  "scripts": {
+    "build": "skpm-build",
+    "watch": "skpm-build --watch",
+    "start": "skpm-build --watch --run",
+    "postinstall": "npm run build && skpm-link"
+  },
+  "devDependencies": {
+    "@skpm/builder": "^0.7.0"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/miguelangelnarvaezgo/symbol-master-renamer.git"
+    },
+  "author": "Miguel Angel Narvaez <miguelangel.narvaez.go@gmail.com>"
+}

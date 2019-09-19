@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/BohemianCoding/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name" : "Rename symbols",
+      "shortcut" : "cmd ctrl r",
+      "identifier" : "01",
+      "description" : "Rename all selected master symbol on symbol page.",
+      "icon" : "icon.png",
+      "script" : "./my-command.js"
+    }
+  ],
+  "menu": {
+    "title": "Symbol Master Renamer",
+    "items": [
+      "01"
+    ]
+  }
+}
