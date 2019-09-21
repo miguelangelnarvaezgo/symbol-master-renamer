@@ -8,10 +8,9 @@
 
 ## Features
 
-- Rename and organize your symbols by selecting one or many at a time.
+- Rename and organize your symbols by selecting one or many at the same time.
 - Dynamically detect the structure of the name of the symbols.
 - Use “/“ to organize your symbols.
-- Dynamically detect the structure of the name of the symbols.
 - Add or remove levels massively in your symbols without affecting the final name.
 - Format your symbols automatically.
 - Use the shortcut "cmd + ctrl + r" to run the pluguin.
