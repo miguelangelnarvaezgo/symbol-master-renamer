@@ -16,5 +16,4 @@
 - Format your symbols automatically.
 - Use the shortcut "cmd + ctrl + r" to run the pluguin.
 
-![Example of Symbol Master Renamer in Sketch](https://github.com/miguelangelnarvaezgo/symbol-master-renamer/blob/master/sketch-assets/example.png)
-
+![Example of Symbol Master Renamer in Sketch](https://github.com/miguelangelnarvaezgo/symbol-master-renamer/blob/master/sketch-assets/example.gif)
