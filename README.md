@@ -1,4 +1,4 @@
-# Rename Master Symbol
+# Symbol Master Renamer
 
 ## Installation
 
